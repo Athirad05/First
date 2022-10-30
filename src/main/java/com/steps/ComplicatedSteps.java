@@ -41,7 +41,9 @@ public class ComplicatedSteps {
     public void clickPrinttedDress(){
 
         complicatedpage.PrintedDress.click();
+        complicatedpage.Dress.click();
 
     }
+
 
 }
